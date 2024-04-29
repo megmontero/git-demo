@@ -1,1 +1,1 @@
-print("Script para hacer backup")
+print("Script para hacer backup v2")
